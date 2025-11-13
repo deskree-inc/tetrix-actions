@@ -1,0 +1,13 @@
+name: 'Tetrix Action'
+description: 'Placeholder GitHub Action'
+inputs:
+  # Add your inputs here
+outputs:
+  # Add your outputs here
+runs:
+  using: 'node20'
+  main: 'index.js'
+branding:
+  icon: 'activity'
+  color: 'blue'
+
